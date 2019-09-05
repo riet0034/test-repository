@@ -9,6 +9,7 @@
  * @subpackage OPML Parser
  */
 
+// Class OPML
 class OPML {
 	var $file;
 	var $feeds;
